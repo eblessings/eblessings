@@ -1,4 +1,4 @@
-# Welcome to eBlessings.live Repository
+# Welcome to eBlessings Repository
 
 👋 Hi, I’m @eblessings, the maintainer and lead developer of eBlessings (https://www.eblessing.co), a platform dedicated to fostering a united community grounded in Islamic values and teachings.
 
