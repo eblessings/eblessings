@@ -1,9 +1,9 @@
 # Welcome to eBlessings.live Repository
 
-👋 Hi, I’m @eblessings, the maintainer and lead developer of eBlessings.live (https://eblessings.live), a platform dedicated to fostering a united community grounded in Islamic values and teachings.
+👋 Hi, I’m @eblessings, the maintainer and lead developer of eBlessings (https://www.eblessing.co), a platform dedicated to fostering a united community grounded in Islamic values and teachings.
 
-## About eBlessings.live
-eBlessings.live is an Islamic platform akin to a virtual Masjid. Our initiative is built on principles such as uniting the Ummah through an Islamic Network, facilitating charity initiatives for social support, offering comprehensive Islamic education, and enhancing user experiences through AI-driven automation. Our mission extends to developing a media platform that aligns with Islamic values.
+## About eBlessings
+eBlessings is an Islamic platform akin to a virtual Masjid. Our initiative is built on principles such as uniting the Ummah through an Islamic Network, facilitating charity initiatives for social support, offering comprehensive Islamic education, and enhancing user experiences through AI-driven automation. Our mission extends to developing a media platform that aligns with Islamic values.
 
 ### Key Features
 - **Community-Driven**: Building a space for Muslims to connect, share, and grow in their faith.
@@ -25,10 +25,10 @@ eBlessings.live is an Islamic platform akin to a virtual Masjid. Our initiative 
 - 💞️ We’re looking to collaborate on projects that align with our mission. If you're interested in contributing, whether it's through code, content, or community engagement, we'd love to hear from you.
 
 ## Get in Touch
-- 📫 How to reach me: Feel free to contact us at [contact@eblessing.co](mailto:contact@eblessing.co) for any inquiries, suggestions, or collaborations.
+- 📫 How to reach me: Feel free to contact us at [hussain@eblessing.co](mailto:hussain@eblessing.co) for any inquiries, suggestions, or collaborations.
 
 <!---
-This is a special repository for the eBlessings.live project. The `README.md` in this repository will appear on the GitHub profile of @eblessings.
+This is a special repository for the eBlessings project. The `README.md` in this repository will appear on the GitHub profile of @eblessings.
 --->
 
 **Thank you for visiting our repository. May our efforts be a source of benefit and a means to earn Allah’s pleasure.**
